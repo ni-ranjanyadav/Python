@@ -1,0 +1,29 @@
+card,Name, Gender, physics, chem, maths, Total
+1,Aarav Sharma, M, 78, 82, 74, 234
+2,Meera Joshi, F,91, 88, 94, 273
+3,Rohan Verma,M, 65, 72, 69, 206
+4,Kavya Nair, F, 84, 79, 88, 251
+5,Ishaan Gupta, M, 56, 61, 59,176
+6,Sneha Patil, F, 73, 77, 81, 231
+7,Aditya Rao, M, 89, 85, 92, 266
+8,Priya Menon, F, 68, 74, 70, 212
+9,Arjun Kulkarni, M, 94, 90, 96, 280
+10,Nisha Singh, F, 57, 63, 60, 180
+11,Virat Bansal, M, 76, 71, 79, 226
+12,Ritu Saxena, F, 88,	92,	85,	265
+13,aran Mehta, M, 62, 67, 64, 193
+14,Pooja Reddy, F, 80, 83, 078, 241
+15,Devansh Pandey, M, 71, 69, 73, 213
+16,Ananya Mishra, F, 95, 94, 91, 280
+17,Siddharth Jain, M, 59, 55, 61, 175
+18,Tanya Kapoor, F, 82, 78, 84, 244
+19,Manish Yadav, M, 66, 70, 72, 208
+20,Jhanvi Kaur, F,	90,	87,	93,	270
+21,Krishna Patel, M, 53, 58,54, 165
+22,Shruti Iyer, F,	79,	75,	83,	237
+23,Harsh Malhotra, M, 87, 89, 86, 262
+24,Neha Chaturvedi, F, 69, 73, 76, 218
+25,Yash Thakur, M, 81, 84, 77, 242
+26,Aishwarya Deshmukh, F, 92, 96, 95, 283
+27,Rohit Shetty, M, 60, 64, 68, 192
+28,Divya Chauhan, F, 85, 82, 80, 247
