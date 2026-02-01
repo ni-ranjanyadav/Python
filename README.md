@@ -20,18 +20,6 @@ This folder contains my Python learning programs and practice projects.
 - NumPy
 - Loops & Conditions
 
-## How to Run
-
-Activate virtual environment:
-
-Windows:
-
-.venv\Scripts\activate
-
-Run Python file:
-
-python filename.py
-
 ## Notes
 
 Virtual environment and cache files are ignored using .gitignore.
