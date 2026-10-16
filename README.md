@@ -27,3 +27,12 @@ Some scripts read local data files, such as `score.csv`. Check that a script’s
 ## Scope
 
 This repository primarily documents learning exercises. Each folder contains independent scripts; package requirements and input files may vary by example.
+
+
+## Topics covered
+
+- Python fundamentals
+- File and CSV handling
+- Object-oriented programming
+- NumPy and pandas
+- Loops and conditions
