@@ -1,37 +1,38 @@
-# Python Practice Repository
+# Python Practice
 
-Author: Niranjan Yadav
+A collection of Python exercises and examples covering programming fundamentals, data handling, and introductory scientific computing.
 
-This folder contains my Python learning programs and practice projects.
+## Repository structure
 
-## Folder Structure
+- `IITM/` — course exercises, including NumPy, pandas, and Matplotlib examples
+- `PythonHarry/` — exercises and examples from Python tutorials
+- `requirements.txt` — third-party packages used across the collection
 
-- IITM – Practice programs and exercises
-- PythonHarry – Code from Python Harry tutorials
-- .venv – Virtual environment (ignored in Git)
-- requirements.txt – Python dependencies
+## Getting started
 
-## Topics Covered
+Use Python 3. From the repository root, install the listed dependencies:
 
-- Basics
-- File Handling
-- CSV Handling
-- OOP
-- NumPy
-- Loops & Conditions
+```sh
+python -m pip install -r requirements.txt
+```
 
-## How to Run
+Run an individual script from the repository root:
 
-Activate virtual environment:
+```sh
+python IITM/NUMPY.py
+```
 
-Windows:
+Some scripts read local data files, such as `score.csv`. Check that a script’s required input file is available before running it.
 
-.venv\Scripts\activate
+## Scope
 
-Run Python file:
+This repository primarily documents learning exercises. Each folder contains independent scripts; package requirements and input files may vary by example.
 
-python filename.py
 
-## Notes
+## Topics covered
 
-Virtual environment and cache files are ignored using .gitignore.
+- Python fundamentals
+- File and CSV handling
+- Object-oriented programming
+- NumPy and pandas
+- Loops and conditions
