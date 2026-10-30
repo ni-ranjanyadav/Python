@@ -23,21 +23,15 @@
 # apple_price = 1.75
 # m = f"{n_apples} kgs of apple cost ₹ {n_apples*apple_price:05.2f}"
 
-
 #n = f"{n_apples} kgs of apple cost ₹ {n_apples*apple_price:02.2f}"
-
 
 #o = f"{n_apples} kgs of apple cost ₹ {n_apples*apple_price}"
 
-
 #p = f"{n_apples} kgs of apple cost ₹ {n_apples*apple_price:.2f}"
-
 
 #q = n_apples+" kgs of apple cost ₹ "+n_apples*apple_price
 
-
 #r = str(n_apples)+" kgs of apple cost ₹ 0"+str(n_apples*apple_price)
-
 
 #s = str(n_apples)+" kgs of apple cost ₹ "+str(n_apples*apple_price)
 
@@ -66,8 +60,8 @@
 # print(type(s.join([s[0],s[1],s[3]])))
 
 
-x = bool(0 or "2" and 0)    #(Python logical operators have this precedence: and > or)
-print(x)
+# x = bool(0 or "2" and 0)    #(Python logical operators have this precedence: and > or)
+# print(x)
 
 
 # a = input()
@@ -173,9 +167,9 @@ print(x)
 # # Block-2 End
 
 
-a = input()
-b = input()
-c = input()
+# a = input()
+# b = input()
+# c = input()
 # if a:
 #     if b:
 #         print('ab')
@@ -220,10 +214,10 @@ c = input()
 #     if not a:
 #         print('c')
 
-if a and b:
-    print('ab')
-if not a and c:
-    print('c')
+# if a and b:
+#     print('ab')
+# if not a and c:
+#     print('c')
     
 s = "A single quotes \' and a double quotes \""
 print(s)

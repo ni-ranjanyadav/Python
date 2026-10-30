@@ -1,0 +1,4 @@
+Hello, How are you?, My name is Niranjan.
+ I'm studying python right now.
+I currently live in a hostel 4
+I'm studying in a 5th sem

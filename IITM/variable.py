@@ -45,11 +45,11 @@
 # del x
 # print(x)
 
-# print('It\'s a beautiful day')
-# print("I am from \"IIT\" madras")
-# print('My name is Niranjan kumar. I am from patna.')
-# print('My name is Niranjan kumar.\tI am from patna.')
-# print('My name is Niranjan kumar.\nI am from patna.')
+print('It\'s a beautiful day')
+print("I am from \"IIT\" madras")
+print('My name is Niranjan kumar. I am from patna.')
+print('My name is Niranjan kumar.\tI am from patna.')
+print('My name is Niranjan kumar.\nI am from patna.')
 
 # Three types of quotes used in python
 # x = 'This is string'

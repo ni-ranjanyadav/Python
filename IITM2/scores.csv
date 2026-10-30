@@ -1,0 +1,12 @@
+card_number,name,gender,city,dob,math,physic,chem,total
+0,Aditi,F,Delhi,2006-01-10,90,92,94,276
+1,Bhavna,F,Mumbai,2005-03-12,89,90,88,267
+2,Chitra,F,Chennai,2006-06-14,92,88,92,272
+3,Esha,F,Kolkata,2005-04-19,87,84,86,257
+4,Farah,F,Pune,2005-11-22,70,82,89,241
+5,Gauri,F,Bengaluru,2005-09-,65,78,87,230
+6,Hina,F,Jaipur,2005-07-21,68,75,65,210
+7,Isha,F,Lakhnow,2006-01-18,75,74,72,221
+8,Jyoti,F,Bhopal,2005-06-04,60,69,68,197
+9,Bhanu,M,Patna,2007-02-24,78,89,63,230
+10,Niranjan,M,Patna,2005-05-04,90,95,97,282

@@ -68,10 +68,6 @@
 
 
 
-
-
-
-
 # Note this prefix code is to verify that you are not using any for loops in this exercise. This won't affect any other functionality of the program.
 with open(__file__) as f:
     content = f.read().split("# <noloop>")[2]
@@ -128,5 +124,3 @@ def list_mutating_operations(items: list, item1, item2):
     print("delete_slice:", items)
 
     return items, popped_item
-
-list_mutating_operations(["Apple", "Cherry","Banana","Grapes"], "Blueberry","Apple"),(['Cherry', 'Blueberry', None], "Grapes")
